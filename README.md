@@ -13,7 +13,11 @@ git push origin your-branch-name
 6. Add a title and description for your changes.
 7. Submit the pull request by clicking 'Create pull request' again.
 d. Give me a step by step guide on how to add someone to your repository.
-
+1. Go to GitHub repository.
+2. Navigate to 'Settings' > 'Manage access'.
+3. Click 'Invite a collaborator'.
+4. Enter their GitHub username or email address and click 'Add'.
+5. The person will receive an invitation which they must accept to become a collaborator.
 e. What is the difference between git and GitHub?
 
 f. What does git diff do?
