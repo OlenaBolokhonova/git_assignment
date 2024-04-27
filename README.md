@@ -23,7 +23,7 @@ Git is a distributed version control system for tracking changes in source code 
 
 GitHub is a cloud-based hosting service that lets you manage Git repositories. It provides additional features beyond what Git offers, such as a web-based graphical interface, access control, bug tracking, feature requests, task management, and wikis for every project.
 f. What does git diff do?
-
+git diff is a command used in Git to show the differences between various commits, the staging area (index), and the working directory. It's useful for seeing what has changed between two states of a project. For example, git diff will show the differences in the code between your current working directory and the last commit.
 g. What is the main branch?
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
