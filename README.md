@@ -25,5 +25,5 @@ GitHub is a cloud-based hosting service that lets you manage Git repositories. I
 f. What does git diff do?
 git diff is a command used in Git to show the differences between various commits, the staging area (index), and the working directory. It's useful for seeing what has changed between two states of a project. For example, git diff will show the differences in the code between your current working directory and the last commit.
 g. What is the main branch?
-
+The main branch (formerly known as 'master' in many repositories) is the default development branch. When you create a new repository, this is the initial and primary branch where the stable codebase is maintained. All major changes are usually merged back into this branch at some point.
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
