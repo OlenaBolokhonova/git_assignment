@@ -27,3 +27,7 @@ git diff is a command used in Git to show the differences between various commit
 g. What is the main branch?
 The main branch (formerly known as 'master' in many repositories) is the default development branch. When you create a new repository, this is the initial and primary branch where the stable codebase is maintained. All major changes are usually merged back into this branch at some point.
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+Generally, it's not advised to push changes directly to the main branch, especially in collaborative projects. Instead, you should:
+1 Create feature branches for specific tasks or changes.
+2 Use pull requests to merge these changes into the main branch after review.
+3 Maintain the main branch as a stable, deployable version of the project.
