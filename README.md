@@ -19,7 +19,9 @@ d. Give me a step by step guide on how to add someone to your repository.
 4. Enter their GitHub username or email address and click 'Add'.
 5. The person will receive an invitation which they must accept to become a collaborator.
 e. What is the difference between git and GitHub?
+Git is a distributed version control system for tracking changes in source code during software development. It's designed to handle everything from small to very large projects with speed and efficiency.
 
+GitHub is a cloud-based hosting service that lets you manage Git repositories. It provides additional features beyond what Git offers, such as a web-based graphical interface, access control, bug tracking, feature requests, task management, and wikis for every project.
 f. What does git diff do?
 
 g. What is the main branch?
